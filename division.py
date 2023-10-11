@@ -1,5 +1,2 @@
 def division(a,b):
-    return a / b
-
-
-print(division(10,5))
+    return print(a / b)
