@@ -1,0 +1,2 @@
+def soustraction():
+    pass
