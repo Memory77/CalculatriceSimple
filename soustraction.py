@@ -1,2 +1,4 @@
-def soustraction():
-    pass
+def soustraction(a,b):
+    return print(a - b)
+
+
