@@ -1,2 +1,2 @@
 def multiplication(a,b):
-    return print(a * b)
+    return a * b
